@@ -45,7 +45,22 @@ A estrutura de arquivos foi organizada para manter segurança e clareza:
 ## Status do Projeto
 - Funcionalidade principal de envio automatizado implementada  
 - Interface gráfica intuitiva pronta  
-- Estrutura modular permite futuras melhorias, como integração com mais formatos de planilhas ou envio simultâneo  
+- Estrutura modular permite futuras melhorias, como integração com mais formatos de planilhas ou envio simultâneo
+
+## Imagens do projeto
+-  Pasta onde fica o projeto e sua arquitetura com:
+-  excel como banco de dados
+-  o arquivo main que contém todo o conteúdo
+-  Flayers já utilizados em publicações e testes A/B
+<img width="710" height="397" alt="image" src="https://github.com/user-attachments/assets/3b327873-6377-4204-b9d2-41030f74b899" />
+
+-  Pasta onde ficam os candidatos separados por interesse
+<img width="710" height="397" alt="image" src="https://github.com/user-attachments/assets/d4f75c45-babd-4ca5-9691-526ca61b8ba6" />
+
+# Próximos passos
+- Automação para a resposta de candidatos
+- Automação para a busca e proposta para novos clientes
+- Oportunidade para assinatura fixa com empresas
 
 ## Observações
 Este projeto foi criado com fins educativos e profissionais, demonstrando habilidades em automação e Python. Nenhum dado real foi exposto no repositório, mantendo confidencialidade.
